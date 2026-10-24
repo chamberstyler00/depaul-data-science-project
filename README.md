@@ -1,2 +1,2 @@
 # depaul-data-science-project
-Data science project created while getting DePaul Masters degree
+This is a data science project I created while getting a Masters in Data Science at DePaul University.
